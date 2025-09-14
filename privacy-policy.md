@@ -18,4 +18,4 @@ ServerLoreMember respecte votre vie privée. Cette politique explique quelles do
 Nous ne partageons pas vos données personnelles avec des tiers, sauf si la loi l’exige.
 
 ## Contact
-Pour toute question concernant la confidentialité, contactez le propriétaire du bot via Discord : `@ServerLoreOwner`
+Pour toute question concernant la confidentialité, contactez le propriétaire du bot via Discord : `@OniYami`

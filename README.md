@@ -1,2 +1,3 @@
 # serverloremember-legal
-Legal documents for ServerLoreMember bot – Privacy Policy &amp; Terms of Service
+Documents juridiques du bot ServerLoreMember – politique de confidentialité
+ &amp; Conditions d'utilisation
